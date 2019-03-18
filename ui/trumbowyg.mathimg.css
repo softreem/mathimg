@@ -1,0 +1,39 @@
+#latex-representation {
+    overflow: auto;
+}
+
+#latex-representation svg{
+    height: auto;
+    width: auto;
+}
+
+.svg-symbol {
+    height: 16px!important;
+}
+
+.svg-up-symbol {
+    height: 22px!important;
+}
+
+.nav-link{
+    color: black;
+}
+
+.trumbowyg-modal{
+    height: auto!important;
+    overflow: visible!important;
+    -webkit-backface-visibility: visible!important;
+    backface-visibility: visible!important;
+}
+
+.svg-matrix {
+    width: 60px!important;
+}
+
+/*.trumbowyg-textarea-hidden{*/
+    /*display: none!important;*/
+/*}*/
+
+/*.trumbowyg-textarea-visible{*/
+    /*display: block!important;*/
+/*}*/
